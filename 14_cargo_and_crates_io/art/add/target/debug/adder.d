@@ -1,0 +1,1 @@
+/home/user/gitClone/Rust_Practice/14_cargo_and_crates_io/art/add/target/debug/adder: /home/user/gitClone/Rust_Practice/14_cargo_and_crates_io/art/add/add-one/src/lib.rs /home/user/gitClone/Rust_Practice/14_cargo_and_crates_io/art/add/adder/src/main.rs
