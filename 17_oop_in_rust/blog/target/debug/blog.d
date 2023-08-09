@@ -1,0 +1,1 @@
+/home/user/gitClone/Rust_Practice/17_oop_in_rust/blog/target/debug/blog: /home/user/gitClone/Rust_Practice/17_oop_in_rust/blog/src/lib.rs /home/user/gitClone/Rust_Practice/17_oop_in_rust/blog/src/main.rs
